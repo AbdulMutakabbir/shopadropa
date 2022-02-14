@@ -2,7 +2,7 @@
 
 Code is ready to be tested.
 
-###How to run the code
+### How to run the code
  - CD into backend driectory 
  - run "npm i"
  - rum "npm start"
